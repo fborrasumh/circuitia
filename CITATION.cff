@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Si usas este software, cítalo con estos metadatos."
+title: "CircuitIA"
+type: software
+authors:
+  - family-names: "Borrás Rocher"
+    given-names: "Fernando"
+    affiliation: "Universidad Miguel Hernández de Elche"
+    orcid: "https://orcid.org/0000-0002-5519-4573"
+  - family-names: "Fernández de Ávila"
+    given-names: "Susana"
+    affiliation: "Universidad Miguel Hernández de Elche"
+    orcid: "https://orcid.org/0009-0003-3155-6458"
+doi: "10.5281/zenodo.23137449"
+version: "1.0.0"
+date-released: "2026-10-04"
+url: "https://fborrasumh.github.io/circuitia/"
+repository-code: "https://github.com/fborrasumh/circuitia"
+license: MIT
