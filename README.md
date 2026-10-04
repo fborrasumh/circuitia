@@ -4,6 +4,8 @@ Generador de **problemas de análisis de circuitos** en una sola página web: ca
 
 **Usar la app:** https://fborrasumh.github.io/circuitia/
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23137449.svg)](https://doi.org/10.5281/zenodo.23137449)
+
 ## Origen de la idea
 
 Nace de una observación de **Susana Fernández de Ávila** (Fundamentos de análisis de circuitos, UMH): en asignaturas de resolución de problemas la IA generativa solo es útil si se combina con el dibujo del circuito y la explicación paso a paso. CircuitIA parte de ese principio y pone el cálculo —no la IA— como autoridad.
@@ -58,7 +60,7 @@ ORCID: Fernando Borrás Rocher [0000-0002-5519-4573](https://orcid.org/0000-0002
 
 ## Cómo citar
 
-Borrás Rocher, F. y Fernández de Ávila, S. (2026). *CircuitIA* (v1.0.0) [Software]. (DOI en trámite)
+Borrás Rocher, F. y Fernández de Ávila, S. (2026). *CircuitIA* (v1.0.0) [Software]. DOI: [10.5281/zenodo.23137449](https://doi.org/10.5281/zenodo.23137449)
 
 ## Licencia
 
